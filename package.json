@@ -10,9 +10,13 @@
   },
   "dependencies": {
     "expo": "~47.0.8",
+    "expo-app-loading": "~2.1.1",
     "expo-status-bar": "~1.4.2",
+    "link": "^1.5.1",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "^0.70.5",
+    "react-native-sound": "^0.11.2",
+    "expo-av": "~13.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
